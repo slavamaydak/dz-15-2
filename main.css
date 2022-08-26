@@ -1,0 +1,133 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "lato";
+}
+
+.otstup {
+  width: 80%;
+  margin: auto;
+  padding: 10px 0px;
+}
+
+.logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logotext {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.main {
+  background-image: url(bakcground.jpeg);
+  height: 600px;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-content {
+  text-align: center;
+}
+
+.main-title {
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+  font-size: 100px;
+  border-bottom: 2px solid rgb(76, 209, 232);
+  letter-spacing: 5px;
+}
+
+.main-text {
+  color: white;
+  font-size: 16px;
+  margin: 23px 0px 60px 0px;
+}
+
+.main-touch {
+  color: white;
+  font-size: 16px;
+  border: 2px solid rgb(76, 209, 232);
+  text-decoration: none;
+  padding: 16px 35px;
+  display: inline-block;
+  border-radius: 7px;
+}
+
+.main-arrow {
+  display: block;
+  margin: auto;
+  padding-top: 140px;
+}
+
+.red {
+  background-color: #f7f9f8;
+}
+
+.simple-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.simple-title {
+  font-weight: 300;
+  margin: 50px 0px 20px 0px;
+}
+
+.simple-text {
+  color: rgb(104, 104, 104);
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.otstup {
+  width: 80%;
+  margin: auto;
+  padding: 10px 0px;
+}
+
+.png {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 140px;
+  background-color: rgb(255, 255, 255);
+}
+
+.png-card {
+  width: 260px;
+  text-align: center;
+}
+
+.png-read:hover {
+  background-color: #cacaca;
+}
+
+.png-title {
+  margin: 20px 0px 10px 0px;
+}
+
+.png-text {
+  font-weight: 200;
+  color: rgb(104, 104, 104);
+}
+
+.galery-pop {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.galery-title {
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+
+.galery-text {
+  font-weight: 200;
+  color: rgb(104, 104, 104);
+}
